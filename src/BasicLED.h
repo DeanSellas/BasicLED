@@ -9,6 +9,8 @@
  *
  */
 #pragma once
+#include <Arduino.h>
+#include "LEDTypes.h"
 
 namespace BasicLED
 {

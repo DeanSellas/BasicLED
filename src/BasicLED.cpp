@@ -9,7 +9,6 @@
  *
  */
 
-#include "../pch.h"
 #include "BasicLED.h"
 
 namespace BasicLED

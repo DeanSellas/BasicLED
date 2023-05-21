@@ -10,6 +10,7 @@
  */
 
 #pragma once
+#include "LEDTypes.h"
 #include "BasicLED.h"
 
 namespace BasicLED
@@ -22,7 +23,7 @@ namespace BasicLED
         BasicLED *m_blueLED;
         char onBit, offBit;
         
-        Logger::Logger *mainLogger;
+        //Logger::Logger *mainLogger;
 
     public:
         /**

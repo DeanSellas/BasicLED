@@ -8,7 +8,6 @@
  * @copyright GNU General Public License v3.0
  *
  */
-#include "../pch.h"
 #include "BasicRGB.h"
 
 namespace BasicLED
@@ -42,7 +41,7 @@ namespace BasicLED
     void BasicRGB::ledSetup()
     {
         turnOffAll();
-        mainLogger = mainLogger->GetInstance();
+        //mainLogger = mainLogger->GetInstance();
         // Init LED
         m_redLED->LEDSetup();
         m_greenLED->LEDSetup();
@@ -70,7 +69,7 @@ namespace BasicLED
 
     void BasicRGB::basicColorTest(int t = 1000)
     {
-        mainLogger->Writeln("Begin Color Test");
+        //mainLogger->Writeln("Begin Color Test");
         redOn();
         delay(t);
         redOff();
