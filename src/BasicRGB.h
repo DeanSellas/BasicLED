@@ -10,7 +10,6 @@
  */
 
 #pragma once
-#include "LEDTypes.h"
 #include "BasicLED.h"
 
 namespace BasicLED
