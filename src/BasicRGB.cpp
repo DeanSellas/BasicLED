@@ -1,6 +1,6 @@
 /**
  * @file BasicRGB.cpp
- * @author Dean Sellas (dgsellas@gmail.com)
+ * @author Dean Sellas (dean@deansellas.com)
  * @brief BasicRGB code. Custom Library to control RGB LEDs. Might release as a standalone library in the future.
  * @version 0.1
  * @date 2022-09-18

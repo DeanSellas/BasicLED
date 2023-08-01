@@ -1,6 +1,6 @@
 /**
  * @file BasicRGB.h
- * @author Dean Sellas (dgsellas@gmail.com)
+ * @author Dean Sellas (dean@deansellas.com)
  * @brief BasicRGB Definitions
  * @version 0.1
  * @date 2022-09-18

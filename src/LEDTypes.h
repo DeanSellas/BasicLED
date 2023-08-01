@@ -1,6 +1,6 @@
 /**
  * @file LEDTypes.h
- * @author Dean Sellas (dgsellas@gmail.com)
+ * @author Dean Sellas (dean@deansellas.com)
  * @brief enum for LED Types
  * @version 0.1
  * @date 2022-10-14

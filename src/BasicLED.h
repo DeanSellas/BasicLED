@@ -1,6 +1,6 @@
 /**
  * @file BasicLED.h
- * @author Dean Sellas (dgsellas@gmail.com)
+ * @author Dean Sellas (dean@deansellas.com)
  * @brief BasicLED Definitions
  * @version 0.1
  * @date 2022-10-10
